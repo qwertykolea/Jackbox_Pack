@@ -1,5 +1,5 @@
 # Jackbox_Pack
-Адаптированные переводы на русский язык для Android / Android TV / Google TV
+Адаптированные переводы игр Jackbox на русский язык для Android / Android TV / Google TV
 
 Не содержит запрещённого/пиратского контента.
 
