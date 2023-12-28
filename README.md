@@ -15,7 +15,7 @@
 | Игра | Кто перевёл | Версия перевода | Ссылка | Примечание
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | [The Jackbox Party Pack](https://play.google.com/store/apps/details?id=com.jackboxgames.JackboxPartyLoaderFull) | [What If?](https://whatif.one/)  |10.10.2022| [Link](https://github.com/qwertykolea/Jackbox_Pack/releases/download/JPP1/TJPP1_WhatIF_10.10.2022-RD_12.12.2023_17.52.zip) |
-| [The Jackbox Party Pack 2](https://play.google.com/store/apps/details?id=com.jackboxgames.JBPP2Loader) | [What If?](https://whatif.one/) \| [Translate Guardians](https://www.trgu.ru/) ||[Link](https://github.com/qwertykolea/Jackbox_Pack/releases/download/JPP2/TJPP2_WhatIF_06.03.2023-TG_04.12.2023-RD_28.12.2023_1404.zip)| + MP3-Бред |
+| [The Jackbox Party Pack 2](https://play.google.com/store/apps/details?id=com.jackboxgames.JBPP2Loader) | [What If?](https://whatif.one/) \| [Translate Guardians](https://www.trgu.ru/) |06.03.2023 \|04.12.2023 |[Link](https://github.com/qwertykolea/Jackbox_Pack/releases/download/JPP2/TJPP2_WhatIF_06.03.2023-TG_04.12.2023-RD_28.12.2023_1404.zip)| + MP3-Бред v3.3 |
 | [The Jackbox Party Pack 3](https://play.google.com/store/apps/details?id=com.jackboxgames.TJPP3Loader) | в работе ||
 | [The Jackbox Party Pack 4](https://play.google.com/store/apps/details?id=com.jackboxgames.TJPP4Loader) | в работе ||
 | [The Jackbox Party Pack 5](https://play.google.com/store/apps/details?id=com.jackboxgames.TJPP5Loader) | в работе ||
