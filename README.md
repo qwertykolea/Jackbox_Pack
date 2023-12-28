@@ -11,7 +11,15 @@
 
 
 ## Скачать
-| Игра   | Перевод | Ссылка |
-| ------------- | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Игра   | Перевод | Ссылка | Примечание
+| ------------- | ------------- | ------------- | ------------- |
+| The Jackbox Party Pack | Content Cell  |
+| The Jackbox Party Pack 2 | скоро  |
+| The Jackbox Party Pack 3 | скоро  |
+| The Jackbox Party Pack 4 | скоро  |
+| The Jackbox Party Pack 5 | скоро  |
+| The Jackbox Party Pack 6 | скоро  |
+| The Jackbox Party Pack 7 | скоро  |
+| The Jackbox Party Pack 8 | скоро  |
+| The Jackbox Party Pack 9 | скоро  |
+| The Jackbox Party Pack 10 | скоро  |
