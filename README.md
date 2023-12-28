@@ -14,7 +14,7 @@
 | Игра  | Перевод | Ссылка | Примечание
 | ------------- | ------------- | ------------- | ------------- |
 | The Jackbox Party Pack | What If?  |
-| The Jackbox Party Pack 2 | What If? / Translate Guardians  |
+| The Jackbox Party Pack 2 | What If? \| Translate Guardians  |
 | The Jackbox Party Pack 3 | в работе |
 | The Jackbox Party Pack 4 | в работе |
 | The Jackbox Party Pack 5 | в работе |
