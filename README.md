@@ -7,7 +7,7 @@
 - Лицензионная игра, можно приобрести на Android [тут](https://play.google.com/store/apps/developer?id=Jackbox+Games,+Inc.)
 - Наличие Root прав
   
-Специально для Telegram-канала: @Jackbox_Pack
+Специально для Telegram-канала: [@Jackbox_Pack](https://t.me/Jackbox_Pack)
 
 
 ## Скачать перевод для Android
