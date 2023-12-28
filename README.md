@@ -20,6 +20,6 @@
 | [The Jackbox Party Pack 5](https://play.google.com/store/apps/details?id=com.jackboxgames.TJPP5Loader) | в работе |
 | [The Jackbox Party Pack 6](https://play.google.com/store/apps/details?id=com.jackboxgames.TJPP6Loader) | в работе |
 | [The Jackbox Party Pack 7](https://play.google.com/store/apps/details?id=com.jackboxgames.TJPP7Loader) | в работе |
-| [The Jackbox Party Pack 8]() | в работе |
-| [The Jackbox Party Pack 9]() | в работе |
-| [The Jackbox Party Pack 10]() | в работе |
+| [The Jackbox Party Pack 8](https://play.google.com/store/apps/developer?id=Jackbox+Games,+Inc.) | в работе |
+| [The Jackbox Party Pack 9](https://play.google.com/store/apps/developer?id=Jackbox+Games,+Inc.) | в работе |
+| [The Jackbox Party Pack 10](https://play.google.com/store/apps/developer?id=Jackbox+Games,+Inc.) | в работе |
