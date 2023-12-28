@@ -11,7 +11,7 @@
 
 
 ## Скачать
-| First Header  | Second Header |
+| Игра   | Перевод | Ссылка |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
