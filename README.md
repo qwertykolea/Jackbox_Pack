@@ -13,7 +13,7 @@
 ## Скачать
 | Игра  | Перевод | Ссылка | Примечание
 | ------------- | ------------- | ------------- | ------------- |
-| The Jackbox Party Pack | What If?  |https://github.com/qwertykolea/Jackbox_Pack/releases/download/JPP1/TJPP1_WhatIF_10.10.2022-RD_12.12.2023_17.52.zip|
+| The Jackbox Party Pack | What If?  | [тык](https://github.com/qwertykolea/Jackbox_Pack/releases/download/JPP1/TJPP1_WhatIF_10.10.2022-RD_12.12.2023_17.52.zip) |
 | The Jackbox Party Pack 2 | What If? \| Translate Guardians  |
 | The Jackbox Party Pack 3 | в работе |
 | The Jackbox Party Pack 4 | в работе |
