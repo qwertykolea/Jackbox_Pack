@@ -4,6 +4,7 @@
 Не содержит запрещённого/пиратского контента.
 
 Для работы требуется:
+- Устройство на Android
 - Лицензионная игра, можно приобрести на Android [тут](https://play.google.com/store/apps/developer?id=Jackbox+Games,+Inc.)
 - Наличие Root прав
   
