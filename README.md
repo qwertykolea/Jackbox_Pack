@@ -14,7 +14,7 @@
 | Игра  | Перевод | Ссылка | Примечание
 | ------------- | ------------- | ------------- | ------------- |
 | The Jackbox Party Pack | [What If?](https://whatif.one/)  | [тык](https://github.com/qwertykolea/Jackbox_Pack/releases/download/JPP1/TJPP1_WhatIF_10.10.2022-RD_12.12.2023_17.52.zip) |
-| The Jackbox Party Pack 2 | [What If?](https://whatif.one/) \| [Translate Guardians](https://www.trgu.ru/)  | + MP3-Бред |
+| The Jackbox Party Pack 2 | [What If?](https://whatif.one/) \| [Translate Guardians](https://www.trgu.ru/)  || + MP3-Бред |
 | The Jackbox Party Pack 3 | в работе |
 | The Jackbox Party Pack 4 | в работе |
 | The Jackbox Party Pack 5 | в работе |
