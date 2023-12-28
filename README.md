@@ -3,8 +3,8 @@
 
 Не содержит запрещённого/пиратского контента.
 
-Для работы требуеться:
-- Лицензионная игра, кожно купить тут: https://play.google.com/store/apps/developer?id=Jackbox+Games,+Inc.
+Для работы требуется:
+- Лицензионная игра, можно приобрести на Android тут: https://play.google.com/store/apps/developer?id=Jackbox+Games,+Inc.
 - Наличие Root прав
   
-Специально для телеграм канала: @Jackbox_Pack
+Специально для Telegram-канала: @Jackbox_Pack
