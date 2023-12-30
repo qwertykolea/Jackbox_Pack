@@ -23,6 +23,6 @@
 | [The Jackbox Party Pack 9](https://play.google.com/store/apps/developer?id=Jackbox+Games,+Inc.) | в работе |
 | [The Jackbox Party Pack 10](https://play.google.com/store/apps/developer?id=Jackbox+Games,+Inc.) | в работе |
 
-#[💵Сказать спасибо материально](https://telegra.ph/Spasibo-12-29-2)
+# [💵Сказать спасибо материально](https://telegra.ph/Spasibo-12-29-2)
 
 Специально для Telegram-канала: [@Jackbox_Pack](https://t.me/Jackbox_Pack)
