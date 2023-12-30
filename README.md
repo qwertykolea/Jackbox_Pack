@@ -1,13 +1,12 @@
 Адаптированные переводы игр Jackbox на русский язык для Android / Android TV / Google TV
 
-Не содержит запрещённого/пиратского контента.
 
 Для работы требуется:
 - Устройство на Android
 - Лицензионная игра, можно приобрести на Android [тут](https://play.google.com/store/apps/developer?id=Jackbox+Games,+Inc.)
 - Наличие Root прав
   
-Специально для Telegram-канала: [@Jackbox_Pack](https://t.me/Jackbox_Pack)
+
 
 
 ## Скачать перевод для Android
@@ -23,3 +22,7 @@
 | [The Jackbox Party Pack 8](https://play.google.com/store/apps/developer?id=Jackbox+Games,+Inc.) | в работе |
 | [The Jackbox Party Pack 9](https://play.google.com/store/apps/developer?id=Jackbox+Games,+Inc.) | в работе |
 | [The Jackbox Party Pack 10](https://play.google.com/store/apps/developer?id=Jackbox+Games,+Inc.) | в работе |
+
+#💵Сказать спасибо материально (https://telegra.ph/Spasibo-12-29-2)
+
+Специально для Telegram-канала: [@Jackbox_Pack](https://t.me/Jackbox_Pack)
