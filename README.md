@@ -15,13 +15,13 @@
 | [The Jackbox Party Pack](https://play.google.com/store/apps/details?id=com.jackboxgames.JackboxPartyLoaderFull) | [What If?](https://whatif.one/) | [Link](https://github.com/qwertykolea/Jackbox_Pack/releases/download/JPP1/TJPP1_WhatIF_10.10.2022-RD_12.12.2023_17.52.zip) |
 | [The Jackbox Party Pack 2](https://play.google.com/store/apps/details?id=com.jackboxgames.JBPP2Loader) | [What If?](https://whatif.one/) \| [Translate Guardians](https://www.trgu.ru/) | [Link](https://github.com/qwertykolea/Jackbox_Pack/releases/download/JPP2/TJPP2_WhatIF_06.03.2023-TG_04.12.2023-RD_30.12.2023_1355.zip) | + MP3-Бред v3.3 |
 | [The Jackbox Party Pack 3](https://play.google.com/store/apps/details?id=com.jackboxgames.TJPP3Loader) | [What If?](https://whatif.one/) | [Link](https://github.com/qwertykolea/Jackbox_Pack/releases/download/JPP3/TJPP3_WhatIF_15.07.2023-RD_16.01.2024_1154.zip) |
-| [The Jackbox Party Pack 4](https://play.google.com/store/apps/details?id=com.jackboxgames.TJPP4Loader) | в работе |
-| [The Jackbox Party Pack 5](https://play.google.com/store/apps/details?id=com.jackboxgames.TJPP5Loader) | в работе |
-| [The Jackbox Party Pack 6](https://play.google.com/store/apps/details?id=com.jackboxgames.TJPP6Loader) | в работе |
-| [The Jackbox Party Pack 7](https://play.google.com/store/apps/details?id=com.jackboxgames.TJPP7Loader) | в работе |
-| [The Jackbox Party Pack 8](https://play.google.com/store/apps/developer?id=Jackbox+Games,+Inc.) | в работе |
-| [The Jackbox Party Pack 9](https://play.google.com/store/apps/developer?id=Jackbox+Games,+Inc.) | в работе |
-| [The Jackbox Party Pack 10](https://play.google.com/store/apps/developer?id=Jackbox+Games,+Inc.) | в работе |
+| [The Jackbox Party Pack 4](https://play.google.com/store/apps/details?id=com.jackboxgames.TJPP4Loader) | [What If?](https://whatif.one/) | [Link](https://github.com/qwertykolea/Jackbox_Pack/releases/download/JPP4/TJPP4_WhatIF_02.09.2022-RD_21.03.2024_1848.zip) |
+| [The Jackbox Party Pack 5](https://play.google.com/store/apps/details?id=com.jackboxgames.TJPP5Loader) | на паузе |
+| [The Jackbox Party Pack 6](https://play.google.com/store/apps/details?id=com.jackboxgames.TJPP6Loader) | на паузе |
+| [The Jackbox Party Pack 7](https://play.google.com/store/apps/details?id=com.jackboxgames.TJPP7Loader) | на паузе |
+| [The Jackbox Party Pack 8](https://play.google.com/store/apps/developer?id=Jackbox+Games,+Inc.) | на паузе |
+| [The Jackbox Party Pack 9](https://play.google.com/store/apps/developer?id=Jackbox+Games,+Inc.) | на паузе |
+| [The Jackbox Party Pack 10](https://play.google.com/store/apps/developer?id=Jackbox+Games,+Inc.) | на паузе |
 
 
 
